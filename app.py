@@ -644,7 +644,7 @@ const ctx =
 
 // Dimensione massima della visualizzazione
 
-const maxCanvasSize = 760;
+const maxCanvasSize = 600;
 
 
 // ========================================================
